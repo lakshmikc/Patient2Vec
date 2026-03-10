@@ -2,7 +2,7 @@
 Learning Multimodal Patient Representations from Omics Data- this is a lightweight framework demonstrating how heterogeneous biomedical measurements (genomics, transcriptomics, clinical traits) can be tensorized and embedded into a unified patient representation.
 
 
-# PMotivation
+# Motivation
 
 Modern biomedical datasets measure patients across many modalities (genomics, transcriptomics, imaging, clinical traits). A central challenge in AI for biomedicine is learning unified representations across these heterogeneous measurements.
 
@@ -19,7 +19,7 @@ biological data tensorization
 patient embeddings
 
 
-#Example Workflow
+# Example Workflow
 Genomics + RNA-seq + Clinical
 
 → tensorization
@@ -30,9 +30,10 @@ Genomics + RNA-seq + Clinical
 
 → similarity analysis
 
-#Example analysis:
+# Example analysis:
 
 Patients with high NPPA expression cluster with HF phenotypes
+
 
 patient2vec
 │
