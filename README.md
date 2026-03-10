@@ -8,7 +8,7 @@ Modern biomedical datasets measure patients across many modalities (genomics, tr
 
 This repository demonstrates a lightweight framework for tensorizing multimodal biological data and learning patient embeddings using neural networks.
 
-#Key Concepts
+# Key Concepts
 
 multimodal data integration
 
