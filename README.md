@@ -35,7 +35,10 @@ Genomics + RNA-seq + Clinical
 Patients with high NPPA expression cluster with HF phenotypes
 
 
-patient2vec
+## 📁 Repository Structure
+
+```
+patient2vec/
 │
 ├── README.md
 ├── environment.yml
@@ -57,6 +60,12 @@ patient2vec
 │   └── visualization.py
 │
 └── figures
+
+```
+
+
+
+
 
 
 
