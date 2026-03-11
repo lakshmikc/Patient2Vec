@@ -107,12 +107,27 @@ notebooks/03_patient_similarity_analysis.ipynb
 
 
 
+## 🤝 Contributing
+
+Contributions are welcome! If you find a bug, have a feature request, or want to contribute code:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes (`git commit -m 'Add your feature'`)
+4. Push to the branch (`git push origin feature/your-feature`)
+5. Open a Pull Request
+
+---
+
+## 📬 Contact
+
+**Lakshmi Kuttippurathu, PhD**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lakshmikc/)
 
 
-##  Author
+---
 
-Lakshmi Kuttippurathu, PhD
-
+*Built with ❤️ for the open-science community. If this tool helps your research, please consider starring the repository ⭐*
 
 
 
