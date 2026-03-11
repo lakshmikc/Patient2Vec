@@ -14,13 +14,13 @@ This repository demonstrates a lightweight framework for tensorizing multimodal 
 
 # Key Concepts
 
-multimodal data integration
+Multimodal data integration
 
-representation learning
+Representation learning
 
-biological data tensorization
+Biological data tensorization
 
-patient embeddings
+Patient embeddings
 
 
 # Example Workflow
