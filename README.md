@@ -112,7 +112,7 @@ notebooks/03_patient_similarity_analysis.ipynb
 ##  Author
 
 Lakshmi Kuttippurathu, PhD
-Computational Biology | AI for Translational Science
+
 
 
 
