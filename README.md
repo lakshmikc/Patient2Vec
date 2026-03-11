@@ -14,29 +14,38 @@ This repository demonstrates a lightweight framework for tensorizing multimodal 
 
 # Key Concepts
 
-Multimodal Data Integration
+Multimodal Data Integration:
 Combining heterogeneous biological measurements into a unified data structure.
 
-Biological Data Tensorization
+Biological Data Tensorization:
 Converting genomics, transcriptomics, and phenotypic data into machine-learning ready tensors.
 
-Representation Learning
+Representation Learning:
 Learning latent embeddings that capture biological variation and disease signals.
 
-Patient Embeddings
+Patient Embeddings:
 Low-dimensional representations of patients that enable clustering, similarity analysis, and predictive modeling.
 
 
 # Example Workflow
-Genomics + RNA-seq + Clinical
+Genomics + RNA-seq + Clinical Traits
 
-→ tensorization
+        ↓
 
-→ multimodal neural network
+Data Tensorization
 
-→ patient embeddings
+        ↓
 
-→ similarity analysis
+Multimodal Neural Network
+
+        ↓
+
+Patient Embedding Space
+
+        ↓
+
+Patient Similarity & Disease Clustering
+
 
 # Example analysis:
 
