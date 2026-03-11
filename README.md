@@ -14,8 +14,6 @@ This repository demonstrates a lightweight framework for tensorizing multimodal 
 
 # Key Concepts
 
-Key Concepts
-
 Multimodal Data Integration
 Combining heterogeneous biological measurements into a unified data structure.
 
