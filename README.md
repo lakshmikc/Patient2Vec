@@ -107,7 +107,7 @@ notebooks/03_patient_similarity_analysis.ipynb
 
 
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you find a bug, have a feature request, or want to contribute code:
 
@@ -119,7 +119,7 @@ Contributions are welcome! If you find a bug, have a feature request, or want to
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Lakshmi Kuttippurathu, PhD**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lakshmikc/)
