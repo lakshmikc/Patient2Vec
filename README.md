@@ -49,7 +49,7 @@ Patient Similarity & Disease Clustering
 
 # Example analysis:
 
-Patients with high NPPA expression cluster with HF phenotypes
+Patients with high NPPA expression cluster with HF phenotypes - As a demonstration, the framework explores how expression patterns in cardiac-associated genes such as NPPA can influence patient clustering.
 
 
 ## 📁 Repository Structure
@@ -80,6 +80,11 @@ patient2vec/
 
 ```
 
+
+## Quick Start
+# 1 Install environment
+conda env create -f environment.yml
+conda activate patient2vec
 
 
 
