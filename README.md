@@ -5,6 +5,7 @@ Learning Multimodal Patient Representations from Omics Data- this is a lightweig
 
 
 
+
 # Motivation
 
 Modern biomedical datasets measure patients across many modalities (genomics, transcriptomics, imaging, clinical traits). A central challenge in AI for biomedicine is learning unified representations across these heterogeneous measurements.
