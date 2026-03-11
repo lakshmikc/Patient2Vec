@@ -81,8 +81,8 @@ patient2vec/
 ```
 
 
-## Quick Start
-# 1 Install environment
+# Quick Start
+##  1 Install environment
 conda env create -f environment.yml
 conda activate patient2vec
 
