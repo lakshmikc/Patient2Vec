@@ -84,7 +84,33 @@ patient2vec/
 # Quick Start
 ##  1 Install environment
 conda env create -f environment.yml
+
 conda activate patient2vec
+
+
+# 2 Run notebooks
+notebooks/01_data_tensorization.ipynb
+
+This notebook demonstrates:
+
+1. preprocessing heterogeneous biological data
+
+2. tensorizing multimodal measurements
+
+# 3 Train embedding model
+
+notebooks/02_multimodal_embedding.ipynb
+
+# 4 Explore patient similarity
+notebooks/03_patient_similarity_analysis.ipynb
+
+
+
+
+#Author
+
+Lakshmi Kuttippurathu, PhD
+Computational Biology | AI for Translational Science
 
 
 
