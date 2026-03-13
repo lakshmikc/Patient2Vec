@@ -1,0 +1,8 @@
+name: patient2vec
+dependencies:
+  - python=3.10
+  - pandas
+  - pytorch
+  - scikit-learn
+  - matplotlib
+
