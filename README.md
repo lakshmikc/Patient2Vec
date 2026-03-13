@@ -59,12 +59,15 @@ Patient Similarity & Disease Clustering
 # Example analysis:
 
 Patients with high NPPA expression cluster with HF phenotypes - As a demonstration, the framework explores how expression patterns in cardiac-associated genes such as NPPA can influence patient clustering.
+In the synthetic dataset included in this repository, patients with elevated NPPA and NPPB expression, combined with adverse clinical characteristics such as increased BMI and blood pressure, cluster together in embedding space.
+
+This demonstrates how multimodal embeddings can capture biologically meaningful disease patterns.
 
 
 ## 📁 Repository Structure
 
 ```
-patient2vec/
+patient2vec
 │
 ├── README.md
 ├── environment.yml
@@ -75,9 +78,7 @@ patient2vec/
 │   └── sample_clinical.csv
 │
 ├── notebooks
-│   ├── 01_data_tensorization.ipynb
-│   ├── 02_multimodal_embedding.ipynb
-│   └── 03_patient_similarity_analysis.ipynb
+│   └── patient2vec_demo.ipynb
 │
 ├── src
 │   ├── preprocessing.py
@@ -85,7 +86,12 @@ patient2vec/
 │   ├── model.py
 │   └── visualization.py
 │
-└── figures
+├── figures
+│   └── patient_embeddings.png
+│
+├── generate_synthetic_data.py
+└── run_demo.py
+
 
 ```
 
@@ -93,11 +99,19 @@ patient2vec/
 # Quick Start
 ##  1 Install environment
 conda env create -f environment.yml
-
 conda activate patient2vec
 
+OR
+pip install torch pandas scikit-learn matplotlib
 
-##  2 Run notebooks
+##  2 Run the demo
+
+python generate_synthetic_data.py
+python run_demo.py
+
+Output : figures/patient_embeddings.png
+
+
 notebooks/01_data_tensorization.ipynb
 
 This notebook demonstrates:
@@ -114,6 +128,19 @@ notebooks/02_multimodal_embedding.ipynb
 notebooks/03_patient_similarity_analysis.ipynb
 
 
+
+
+## Future Extensions
+
+Potential directions include:
+
+        integration of single-cell transcriptomics
+
+        inclusion of EHR and longitudinal clinical data
+
+        transformer architectures for multimodal representation learning
+
+        foundation-model style embeddings for biomedical data
 
 
 ## Contributing
