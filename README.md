@@ -5,7 +5,7 @@ Learning Multimodal Patient Representations from Omics Data- this is a lightweig
 ![PyTorch](https://img.shields.io/badge/PyTorch-deep%20learning-red)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-MIT-green)
-
+![Notebook](https://img.shields.io/badge/Jupyter-demo-orange)
 
 <img width="1408" height="768" alt="1773177153040" src="https://github.com/user-attachments/assets/38418c21-695f-4360-895a-fd3f6a530d2d" />
 
@@ -133,6 +133,14 @@ notebooks/03_patient_similarity_analysis.ipynb
 Patient embeddings learned from multimodal biological data.
 
 ![Patient embeddings](figures/patient_embeddings.png)
+
+
+## Running the Notebook
+
+Launch the interactive demo:
+
+```bash
+jupyter notebook notebooks/patient2vec_demo.ipynb
 
 
 
