@@ -142,7 +142,7 @@ Launch the interactive demo:
 ```bash
 jupyter notebook notebooks/patient2vec_demo.ipynb
 
-
+```
 
 
 ## Future Extensions
