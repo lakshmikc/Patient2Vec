@@ -125,7 +125,14 @@ This notebook demonstrates:
 notebooks/02_multimodal_embedding.ipynb
 
 ##  4 Explore patient similarity
+
 notebooks/03_patient_similarity_analysis.ipynb
+
+## Example Embedding Space
+
+Patient embeddings learned from multimodal biological data.
+
+![Patient embeddings](figures/patient_embeddings.png)
 
 
 
