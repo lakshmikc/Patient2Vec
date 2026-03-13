@@ -12,9 +12,6 @@ Learning Multimodal Patient Representations from Omics Data- this is a lightweig
 
 
 
-> ⚠️ **Work in Progress** — This repository is actively under development and not yet ready for production use. Code, documentation, and examples are being added incrementally. Watch or star the repo to follow along!
-
-
 # Motivation
 
 Modern biomedical datasets measure patients across many modalities (genomics, transcriptomics, imaging, clinical traits). A central challenge in AI for biomedicine is learning unified representations across these heterogeneous measurements.
