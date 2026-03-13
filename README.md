@@ -170,12 +170,12 @@ Contributions are welcome! If you find a bug, have a feature request, or want to
 
 ---
 
+
+
 ## Contact
 
-** Lakshmi Kuttippurathu, PhD**
+**Lakshmi Kuttippurathu, PhD**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lakshmikc/)
-
-
 ---
 
 *Built with ❤️ for the open-science community. If this tool helps your research, please consider starring the repository ⭐*
